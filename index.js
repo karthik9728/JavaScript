@@ -17,3 +17,9 @@ console.log(typeof(color[1]));
 console.log(person);
 console.log(person.name);
 console.log(person.age);
+
+function Total(a,b){
+    console.log(a+b);
+}
+
+Total('5',6)
